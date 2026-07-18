@@ -13,7 +13,7 @@ const Achievements = () => {
         <div className="text-center mb-14">
           <h2 className="text-3xl sm:text-4xl font-bold">
             <span className="bg-linear-to-r from-[#6c63ff] to-[#ff6b9d] bg-clip-text text-transparent">
-              Achievements
+              Achievements 🎖️
             </span>
           </h2>
           <div className="w-16 h-1 bg-linear-to-r from-[#6c63ff] to-[#ff6b9d] mx-auto mt-3 rounded-full" />
@@ -25,7 +25,7 @@ const Achievements = () => {
         {/* Achievement Cards */}
         <div className="grid md:grid-cols-3 gap-6 mb-16">
           <div className="bg-[#1a1a2e] rounded-2xl p-6 border border-[#2a2a42] hover:border-[#6c63ff]/50 transition-all duration-300 hover:shadow-xl hover:shadow-[#6c63ff]/10">
-            <div className="text-4xl mb-3">⚡</div>
+            <div className="text-4xl mb-3">👨‍💻</div>
             <h3 className="text-xl font-semibold text-white">Codeforces</h3>
             <p className="text-[#c4c4d4] text-sm mt-1">Pupil · Max Rating 1220</p>
             <p className="text-[#9a9ab0] text-sm mt-2">500+ problems solved</p>

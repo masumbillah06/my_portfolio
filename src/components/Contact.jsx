@@ -27,7 +27,7 @@ const Contact = () => {
                 <div className="text-center mb-14">
                     <h2 className="text-3xl sm:text-4xl font-bold">
                         <span className="bg-linear-to-r from-[#6c63ff] to-[#a78bfa] bg-clip-text text-transparent">
-                            Get In Touch
+                            Get In Touch 📞
                         </span>
                     </h2>
                     <div className="w-16 h-1 bg-linear-to-r from-[#6c63ff] to-[#a78bfa] mx-auto mt-3 rounded-full" />

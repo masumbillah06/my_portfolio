@@ -20,7 +20,7 @@ const Hero = () => {
         </h1>
 
         <p className="mt-4 text-xl sm:text-2xl md:text-3xl text-[#c4c4d4] font-light">
-          Competitive Programmer, Aspiring Front-End Developer &amp; UI/UX Enthusiast
+          Competitive Programmer, Aspiring Software Developer &amp; UI/UX Enthusiast
         </p>
 
         <p className="mt-6 max-w-2xl mx-auto text-[#9a9ab0] text-base sm:text-lg leading-relaxed">
