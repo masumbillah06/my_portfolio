@@ -20,7 +20,7 @@ const projects = [
     tags: ['React', 'JavaScrit', 'Tailwind'],
     image: '💻',
     github: 'https://github.com/masumbillah06/my_portfolio',
-    demo: '#',
+    demo: 'https://masum06-portfolio.vercel.app/',
     featured: true,
   },
   {
